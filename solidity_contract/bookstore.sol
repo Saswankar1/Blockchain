@@ -4,7 +4,7 @@ pragma solidity ^0.8.10;
 /*
 In this contract:
     1. add book
-    2. rermov book
+    2. remove book
     3. update details of the book
     4. finding book by title, author, publication, id
    
