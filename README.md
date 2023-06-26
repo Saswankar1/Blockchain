@@ -15,9 +15,9 @@ The `notes` folder contains my notes from my early days as a blockchain develope
 
 The `solidity` folder contains my Solidity contracts. Solidity is the programming language used for writing smart contracts on blockchain platforms like Ethereum. Inside this folder, you'll find various Solidity contracts that I have developed as part of my projects. Each contract serves a specific purpose and demonstrates my understanding of smart contract development.
 
-### 3. Project
+### 3. Hardhat
 
-The `project` folder contains all the blockchain projects
+The `hardhat` folder contains all the blockchain projects made in hardhat. 
 
 ## Getting Started
 
