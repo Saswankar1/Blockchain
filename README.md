@@ -1,5 +1,5 @@
-# Blockchain
-This is my Blockchain Repsoitory
+# Blockchain 
+This repo contains my blockchain code and files
 
 # My Blockchain Projects
 
