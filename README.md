@@ -1,10 +1,6 @@
 # Blockchain 
 This repo contains my blockchain code and files
 
-# My Blockchain Projects
-
-Welcome to my repository that houses all my blockchain projects and code! This collection showcases my journey as a blockchain developer and my exploration of different concepts and technologies in the blockchain space.
-
 ## Folders
 
 ### 1. Notes
