@@ -1,5 +1,4 @@
 # Blockchain 
-This repo contains my blockchain code and files
 
 ## Folders
 
