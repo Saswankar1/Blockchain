@@ -1,6 +1,6 @@
 # Blockchain 
 
-## Folder
+## Folders
 
 ### 1. Notes
 
