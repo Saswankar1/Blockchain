@@ -4,7 +4,7 @@
 
 ### 1. Notes
 
-The `notes` folder contains my notes from my early days as a blockchain developer. These notes document my learning process, concepts, and important insights that I gained along the way. Feel free to explore them if you're interested in understanding my growth and progress in the blockchain field.
+The `notes` folder contains my notes from my early days as a blockchain developer. These notes document my learning process, concepts, and important insights that I gained along the way. Feel free to explore them and edit them,if you're interested in understanding my growth and progress in the blockchain field.
 
 ### 2. Solidity
 
