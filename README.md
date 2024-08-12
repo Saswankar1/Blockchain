@@ -22,7 +22,7 @@ To get started with any of the projects or code in this repository, follow the s
       git clone https://github.com/[your-username]/[your-repo].git
 
 2. Navigate to the specific folder you're interested in:
-      cd [folder-name]
+      cd [folder_name]
       
       
 ## Contact
