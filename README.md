@@ -18,7 +18,7 @@ The `hardhat` folder contains all the blockchain projects made in hardhat.
 
 To get started with any of the projects or code in this repository, follow the steps below:
 
-1. Clone this repository to your local machine using the following command:
+1. Clone this repository to your PC using the following command:
       git clone https://github.com/[your-username]/[your-repo].git
 
 2. Navigate to the specific folder you're interested in:
